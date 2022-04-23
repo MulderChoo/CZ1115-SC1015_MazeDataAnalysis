@@ -4,9 +4,9 @@ This is my group's submission for CZ1115/SC1015: Introduction to Data Science an
 GROUP MEMBERS
 ---------------------------------
 
-Choo Yu Hao Mulder U2022324D
-Gregory Wong U2022121D
-Ta Anh Trung U2120170D
+Choo Yu Hao Mulder U2022324D \
+Gregory Wong U2022121D \
+Ta Anh Trung U2120170D \
 
 Title: Maze Data Analysis
 
