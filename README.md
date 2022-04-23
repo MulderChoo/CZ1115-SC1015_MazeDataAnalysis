@@ -6,7 +6,7 @@ GROUP MEMBERS
 
 Choo Yu Hao Mulder U2022324D \
 Gregory Wong U2022121D \
-Ta Anh Trung U2120170D \
+Ta Anh Trung U2120170D 
 
 Title: Maze Data Analysis
 
